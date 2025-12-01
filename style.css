@@ -1,9 +1,12 @@
 #vung1 {
-  background-color: blue;
+    background-color: blue;
+    color: yellow;
 }
 #vung2 {
-  background-color: yellow;
+    background-color: yellow;
+    color: red;
 }
 #vung3 {
-  background-color: red;
+    background-color: red;
+    color: white;
 }
