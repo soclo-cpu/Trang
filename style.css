@@ -1,15 +1,9 @@
-h1 {
-  color: red; 
-  text-align: center; 
+#vung1 {
+  background-color: blue;
 }
-#para1 {
-  color: yellow; 
-  font-size: 13px; 
-  font-family: Arial, sans-serif; 
+#vung2 {
+  background-color: yellow;
 }
-#para2 {
-  background-color: yellow; 
-  font-weight: bold; 
-  font-size: 13px; 
-  font-family: "Times New Roman", Times, serif; 
+#vung3 {
+  background-color: red;
 }
