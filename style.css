@@ -1,30 +1,44 @@
 #vung1 {
-  background-color: blue;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: yellow;
-  height: 300px;
-  border: 10px solid brown;
-  box-sizing: border-box;
-}
-#vung2 {
-  background-color: yellow;
-  color: red;
-  height: 100px;
-  border: 10px solid skyblue;
-  box-sizing: border-box;
-}
-#vung3 {
-  background-color: red;
-  color: black;
-  height: 100px;
-  border: 10px solid pink;
-  box-sizing: border-box;
-}
-img {
-  width: 48px;
-  height: 48px;
-  display: block;
-  margin-top: 10px;
-}
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: yellow;
+    height: 150px;
+    border: 10px solid brown;
+    box-sizing: border-box;
+  }
+  #vung2 {
+    background-color: yellow;
+    color: red;
+    min-height: 200px;
+    border: 10px solid skyblue;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    padding-top: 10px;
+  }
+  #vung3 {
+    background-color: red;
+    color: black;
+    height: 100px;
+    border: 10px solid pink;
+    box-sizing: border-box;
+  }
+  img {
+    width: 48px;
+    height: 48px;
+    display: block;
+    margin-top: 10px;
+  }
+  #vung1 p {
+    text-align: center;
+    width: 100%;
+  }
+  .score-table {
+    border-collapse: collapse; 
+    width: 90%; 
+    font-size: 14px;
+    text-align: center;
+  }
