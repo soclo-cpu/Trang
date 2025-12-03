@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   color: yellow;
-  height: 150px;
+  height: 300px;
   border: 10px solid brown;
   box-sizing: border-box;
 }
@@ -27,32 +27,4 @@ img {
   height: 48px;
   display: block;
   margin-top: 10px;
-}
-#vung1 p {
-  text-align: center
-  width: 100%
-}
-#vung1 .Trang Chủ { 
-  display: flex; 
-  flex-direction: row; 
-  gap: 20px; 
-  margin-top: 10px; 
-  list-style: none; 
-  padding: 0;
-}
-  #vung1 .Thông Tin { 
-  display: flex; 
-  flex-direction: row; 
-  gap: 20px; 
-  margin-top: 10px; 
-  list-style: none; 
-  padding: 0;
-}
-    #vung1 .Dịch Vụ { 
-  display: flex; 
-  flex-direction: row; 
-  gap: 20px; 
-  margin-top: 10px; 
-  list-style: none; 
-  padding: 0;
 }
